@@ -1,7 +1,4 @@
 
-<!--
-**FernAvenGy/FernAvenGy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hola, soy Fer Avendaño Gaytán  
 🎓 Estudiante de **Ciencia de Datos** en **UPAEP**.  
 💻 Apasionado por la programación competitiva y la inteligencia artificial.  
