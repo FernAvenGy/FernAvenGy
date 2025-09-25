@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy Fer Avendaño Gaytán  
 🎓 Estudiante de **Ciencia de Datos** en **UPAEP**.  
-💻 Apasionado por la programación competitiva y la inteligencia artificial.  
+💻 Apasionada por la programación competitiva y la inteligencia artificial.  
 ⚡ Me interesa aplicar la tecnología a **finanzas, IA y proyectos académicos/empresariales**.  
 ---
 ## 🚀 Proyectos destacados
