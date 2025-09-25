@@ -1,6 +1,7 @@
 
 # 👋 Hola, soy Fer Avendaño Gaytán  
 🎓 Estudiante de **Ciencia de Datos** en **UPAEP**.  
+👩🏻‍💼 Coordinadora General del grupo estudiantil de programación compeititva de UPAEP (2025-2026)
 💻 Apasionada por la programación competitiva y la inteligencia artificial.  
 ⚡ Me interesa aplicar la tecnología a **finanzas, IA y proyectos académicos/empresariales**.  
 
