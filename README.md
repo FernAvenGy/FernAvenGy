@@ -3,14 +3,13 @@
 🎓 Estudiante de **Ciencia de Datos** en **UPAEP**.  
 👩🏻‍💼 Coordinadora General del grupo estudiantil de programación compeititva de UPAEP (2025-2026).
 💻 Apasionada por la programación competitiva y la inteligencia artificial.  
-⚡ Me interesa aplicar la tecnología a **finanzas, IA y proyectos académicos/empresariales**.  
 
 ## 🚀 Proyectos destacados
-
+Google Stock Price Prediction
 
 ## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** Python, C, C++, Java, SQL (Oracle).  
-- **Data Science:** Pandas, NumPy, Matplotlib, análisis estadístico e inferencial.  
+- **Lenguajes:**  C, C++, Java, SQL (Oracle), Python  
+- **Data Science:** R, análisis estadístico e inferencial.  
 - **Otros:** Git/GitHub, VS Code
 
 
